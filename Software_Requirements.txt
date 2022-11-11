@@ -1,0 +1,10 @@
+User Requirements: - Enter a team or match, for stats and predictions
+			 - Enter what stats they want from the software
+
+System Requirements: - Create a clear, user-friendly UI
+			   - Read input from the user and pass it to model
+			   - Create the initial model from existing football data
+				   - Within software or just pass the final model to the software
+			   - Pull data from teams specifically mentioned by the user
+			   - Display output to the user in graphs for statistical analysis
+			   - Display odds predicted from the model
