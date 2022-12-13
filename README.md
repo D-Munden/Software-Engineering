@@ -11,7 +11,7 @@ Welcome to our 2022-2023 Football outcome predictor which uses machine learning 
 ```css
 Daniel Munden - UP2074188
 Jack Pears - UP2077680
-Nik Ivanov - UP2061198
+Nikola Ivanov - UP2061198
 Jayden Olden - UP2006184
 Henry Write - UP2054343
 Louie Harpa - UP2070469
